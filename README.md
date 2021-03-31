@@ -3,7 +3,7 @@
 
 선행 연구 및 사례 조사 결과 해외에서 같은 주제로 진행한 사례가 있어 해당 알고리즘을 참고 및 보완하였습니다.  
 이미지(input)를 투입하면 해당 이미지에 적절한 해시태그 10개(output)를 추천해주는 알고리즘입니다.  
-
+  
 ## 프로젝트 진행과정
 ![image](https://user-images.githubusercontent.com/47891430/113044249-6649ad00-91d8-11eb-86af-284797dd3da2.jpg)
 ![image](https://user-images.githubusercontent.com/47891430/113044259-68137080-91d8-11eb-9a79-bd78806897ff.jpg)
